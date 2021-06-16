@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.Grande {
+  display: flex;
+}
+
+.Span1 {
+  background-color: blue;
+  min-height: 99vh;
+  min-width: 98vh;
+  display: flexbox;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.Span2 {
+  background-color: crimson;
+  min-height: 99vh;
+  min-width: 98vh;
+  display: flexbox;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
